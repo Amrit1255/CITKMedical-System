@@ -1,3 +1,3 @@
 # CITKMedical-System
 
-CITKMedical is Based On Medical Management Syatem 
+CITKMedical is Based On Medical Management System
